@@ -1,23 +1,13 @@
-# react-native-bluetooch-escpos-printer
+# This is a react-native-bluetooch-escpos-printer updated lastest version(0.0.5) with some build fixed issue:
+### *HTTP to HTTP requests
+### *CompileSdkVersion 27 to 33
+### *import android.support.v4.app.ActivityCompat to import androidx.core.app.ActivityCompat
+### *import android.support.v4.content.ContextCompat to import androidx.core.content.ContextCompat
+### *implementation "androidx.core:core-ktx:+"
 
-This is a update lib with some build fixed issue:
-*HTTP to HTTP requests
-*CompileSdkVersion 27 to 33
-*import android.support.v4.app.ActivityCompat to import androidx.core.app.ActivityCompat
-*import android.support.v4.content.ContextCompat to import androidx.core.content.ContextCompat
-*implementation "androidx.core:core-ktx:+"
 
-React-Native plugin for the bluetooth ESC/POS & TSC printers.
 
-Any questions or bug please raise a issue.
-
-##Still under developement
-
-#May support Android /IOS
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/januslo/react-native-bluetooth-escpos-printer/master/LICENSE) [![npm version](https://badge.fury.io/js/react-native-bluetooth-escpos-printer.svg)](https://www.npmjs.com/package/react-native-bluetooth-escpos-printer)
-
-## Installation
+## Original lib instalation steps
 ### Step 1 ###
 Install via NPM [Check In NPM](https://www.npmjs.com/package/react-native-bluetooth-escpos-printer)
 ```bash
