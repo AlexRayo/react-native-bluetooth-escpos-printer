@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Heisenberg\\Documents\\react-native\\alfacreditpay\\node_modules\\react-native-bluetooth-escpos-printer\\android\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Heisenberg\\.gradle\\caches\\transforms-3\\dc433e54a825b3712088b77ea23f2b68\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Heisenberg\\Documents\\react-native\\alfacreditpay\\node_modules\\react-native-bluetooth-escpos-printer\\android\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Heisenberg\\.gradle\\caches\\transforms-3\\dc433e54a825b3712088b77ea23f2b68\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Heisenberg\\Documents\\react-native\\alfacreditpay\\node_modules\\react-native-bluetooth-escpos-printer\\android\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Heisenberg\\.gradle\\caches\\transforms-3\\dc433e54a825b3712088b77ea23f2b68\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Heisenberg\\Documents\\react-native\\alfacreditpay\\node_modules\\react-native-bluetooth-escpos-printer\\android\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Heisenberg\\.gradle\\caches\\transforms-3\\dc433e54a825b3712088b77ea23f2b68\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Heisenberg\\Documents\\react-native\\alfacreditpay\\node_modules\\react-native-bluetooth-escpos-printer\\android\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Heisenberg\\.gradle\\caches\\transforms-3\\dc433e54a825b3712088b77ea23f2b68\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Heisenberg\\Documents\\react-native\\alfacreditpay\\node_modules\\react-native-bluetooth-escpos-printer\\android\\build\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Heisenberg\\.gradle\\caches\\transforms-3\\874ebc311f4d8a657358d3bdcffa5be4\\transformed\\core-1.9.0\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
