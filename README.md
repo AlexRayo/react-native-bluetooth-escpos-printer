@@ -1,9 +1,15 @@
 # This is a react-native-bluetooch-escpos-printer updated lastest version(0.0.5) with some build fixed issue:
-### *HTTP to HTTP requests
-### *CompileSdkVersion 27 to 33
-### *import android.support.v4.app.ActivityCompat to import androidx.core.app.ActivityCompat
-### *import android.support.v4.content.ContextCompat to import androidx.core.content.ContextCompat
-### *implementation "androidx.core:core-ktx:+"
+
+* HTTP to HTTPS requests
+
+* CompileSdkVersion 27 to 33
+
+* import android.support.v4.app.ActivityCompat to import androidx.core.app.ActivityCompat
+
+* import android.support.v4.content.ContextCompat to import androidx.core.content.ContextCompat
+
+* implementation "androidx.core:core-ktx:+
+"
 
 
 
