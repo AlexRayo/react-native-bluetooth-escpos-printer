@@ -20,7 +20,7 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 31 // update from 27 to 31
     buildToolsVersion "30.0.3"
 
     defaultConfig {
